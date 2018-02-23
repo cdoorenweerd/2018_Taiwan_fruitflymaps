@@ -1,5 +1,5 @@
 # 2018_Taiwan_fruitflymaps
-Jupyter notebook with scripts and data for distribution maps of fruit flies in Taiwan, as supporting information for the manuscript:
+Jupyter notebook [open file Taiwan_mapplot_github.ipynb to see] with scripts and data for distribution maps of fruit flies in Taiwan, as supporting information for the manuscript:
 
 An annotated checklist of Taiwan's Dacini fruit flies: rare endemics and abundant pests, along altitudinal gradients
 ====================================================================================================================
