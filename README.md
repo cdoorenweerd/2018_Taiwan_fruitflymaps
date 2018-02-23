@@ -1,4 +1,4 @@
-https://zenodo.org/badge/122671992.svg
+![DOI badge](https://zenodo.org/badge/122671992.svg)
 
 # 2018_Taiwan_fruitflymaps
 Jupyter notebook [open file Taiwan_mapplot_github.ipynb to see] with scripts and data for distribution maps of fruit flies in Taiwan, as supporting information for the manuscript:
