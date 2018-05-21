@@ -1,9 +1,10 @@
-![DOI badge](https://zenodo.org/badge/122671992.svg)
+[https://zenodo.org/record/1250548#.WwNaCi_Myso]![DOI badge](https://zenodo.org/badge/122671992.svg)
+
 
 # 2018_Taiwan_fruitflymaps
 Jupyter notebook [open file Taiwan_mapplot_github.ipynb to see] with scripts and data for distribution maps of fruit flies in Taiwan, as supporting information for the manuscript:
 
-An analysis of the species diversity and biogeographic relationships of Taiwanese Dacini fruit flies (Diptera: Tephritidae)
+Taiwan’s Dacini fruit flies: rare endemics and abundant pests, along altitudinal gradients
 ====================================================================================================================
 
 Camiel Doorenweerd1*, Luc Leblanc2, Yu-Feng Hsu3, Chia-Lung Huang3, Yu-Chi Lin3, Michael San Jose1 & Daniel Rubinoff1
