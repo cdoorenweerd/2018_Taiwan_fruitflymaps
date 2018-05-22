@@ -1,4 +1,4 @@
-[https://zenodo.org/record/1250548#.WwNaCi_Myso](https://zenodo.org/badge/122671992.svg)
+[https://zenodo.org/record/1250548#.WwNaCi_Myso]![DOI badge](https://zenodo.org/badge/122671992.svg)
 
 
 # 2018_Taiwan_fruitflymaps
